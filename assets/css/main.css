@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Pro&display=swap');
+body{
+    padding-top: 56px;
+    font-family: 'Crimson Pro', serif;
+}
+#naslov{
+    font-size: 35px!important;
+}
+.navbar-dark .navbar-nav .nav-link{
+    font-size: 18px;
+}
+.navbar-dark .navbar-brand{
+    font-size: 24px;
+}
+a{
+    color:#276FBF;
+}
+p{
+    color:#0A0908;
+}
+.navbar-dark .navbar-brand{
+    color:#F2F4F3;
+}
+#btnPanel{
+    margin-top: 15px;
+}
+.list-group-item{
+    font-size: 18px;
+}
+.pagination{
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+.spremno{
+    color:rgb(50, 214, 77);
+    font-size: 20px;
+}
+del{
+    color:rgb(228, 74, 74);
+    font-size: 20px;
+}
+.ozgradi{
+    font-size: 17px;
+    margin-top: 3px;
+}
+#naslov-komentar{
+    font-size: 20px;
+    color:#0A0908;
+    font-weight: bold;
+}
+.card-kom{
+    margin-bottom: 8px;
+}
+.dgmKom{
+    margin-top:10px;
+}
+.bg-dark{
+    background-color: #22333B;
+}
+.cenazgrade{
+    font-weight:bold;
+}
+i{
+    margin-top: 2px;
+}
+.usernameKom{
+    font-size: 20px;
+    font-style: italic;
+}
+.urediUser{
+    text-decoration: underline;
+}
+.bazaNaslovi{
+    text-align: center;
+    padding: 16px 0px 10px 0px;
+}
+.vote-result{
+    width:50%;
+    margin: 0px auto;
+    margin-bottom: 60px;
+}
+#insertDgm1{
+    margin:10px 10% 10px 10%;
+}
+.labela-input{
+    font-weight: bold;
+}
+.span-naslov{
+    font-size: 21px;
+}
+#logovanje{
+    margin:80px 0px 228px 0px;
+}
+#registracija {
+    margin: 45px 0px 45px 0px;
+}
+#anketa{
+    margin:155px 0px 280px 0px;
+}
+.futer-txt{
+    color:#F2F4F3;
+}
+.dokumentacija{
+    color:#276FBF;
+}
+.mreze{
+    font-size: 20px;
+}
+.mreza{
+    font-size: 20px;
+}
+footer{
+    padding:10px 0px 0px 0px!important;
+    background-color: #343a40!important;
+}
+.drzimreze{
+    width:60%;
+    display: flex;
+    justify-content: space-between;
+}
+.mreza{
+    font-size: 18px;
+    color:#F2F4F3;
+}
+.futer-naslov{
+    color:#F2F4F3;
+}
